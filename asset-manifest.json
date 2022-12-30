@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anmolenterprises/static/css/main.2910e6ca.css",
-    "main.js": "/anmolenterprises/static/js/main.23fa7771.js",
+    "main.css": "/anmolenterprises/static/css/main.676b7e46.css",
+    "main.js": "/anmolenterprises/static/js/main.38257e96.js",
     "static/js/787.e94b95b8.chunk.js": "/anmolenterprises/static/js/787.e94b95b8.chunk.js",
     "index.html": "/anmolenterprises/index.html",
-    "main.2910e6ca.css.map": "/anmolenterprises/static/css/main.2910e6ca.css.map",
-    "main.23fa7771.js.map": "/anmolenterprises/static/js/main.23fa7771.js.map",
+    "main.676b7e46.css.map": "/anmolenterprises/static/css/main.676b7e46.css.map",
+    "main.38257e96.js.map": "/anmolenterprises/static/js/main.38257e96.js.map",
     "787.e94b95b8.chunk.js.map": "/anmolenterprises/static/js/787.e94b95b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2910e6ca.css",
-    "static/js/main.23fa7771.js"
+    "static/css/main.676b7e46.css",
+    "static/js/main.38257e96.js"
   ]
 }
